@@ -1,0 +1,1 @@
+Write a quick entry.
