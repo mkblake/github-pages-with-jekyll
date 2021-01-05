@@ -1,5 +1,5 @@
 ---
-title: "FIRST-POST-TITLE"
-date: 2020-12-17
+title: "BASIC-SQL-PROFICIENCIES"
+date: 01-04-2020
 ---
-Write a quick entry.
+This tutorial exercise demonstrates the following proficiencies: use of MAX, MIN, AVG and COUNT functions, writing SELECT, GROUP BY and CASE statements, writing a WHERE clause and using the ORDER BY keyword. https://bit.ly/3rJLLBI
